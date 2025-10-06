@@ -1,3 +1,7 @@
+# A Simple React Project with Notes
+
+This project is mainly for referencing and practicing concepts as I learn them.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
