@@ -1,8 +1,6 @@
 // How to write a component
 
 // First, imports
-import { useState } from 'react' 
-// not using this yet
 
 /* Component function formula
 function Name(){
