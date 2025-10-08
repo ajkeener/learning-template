@@ -4,12 +4,15 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import Expressions from './Expressions.jsx'
+import Attributes from './Attributes.jsx'
 //App.jsx is just an example of a component
+// All components require an import statement
 
 createRoot(document.getElementById('root')).render(
   <StrictMode> {/* dev mode only, helps with bugs*/}
     <App /> {/* main or first component */}
     <Expressions />
+    <Attributes />
   </StrictMode>,
 )
 // createRoot(get the root element from document).render(elements or components);
